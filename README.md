@@ -1,3 +1,3 @@
 # pokedex
 
-Projeto Pokedex feito junto com o curso de JavaScript do bootcamp da DIO.
+Projeto Pokedex feito junto com a aula de JavaScript do Bootcamp Santander na DIO.
